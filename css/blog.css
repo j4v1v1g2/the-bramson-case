@@ -1,0 +1,20 @@
+
+#blog{
+    background: #000000;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#blog .contenedor{
+    top: 20%;
+    transform: translateX(-50%) translateY(-50%);
+    color:#000000;
+}
+
+
+
+#blog img{
+    width: 100%;
+    max-width: 460px;
+}

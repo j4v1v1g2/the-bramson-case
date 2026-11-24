@@ -1,0 +1,62 @@
+
+#news{
+    background: #000000;    
+}
+
+#news .contenedor{
+    align-content: center;
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    background: #000000;
+    color: #fff;
+
+    
+}
+
+#news article{
+    margin: 20px;  
+    text-align: left;
+
+    
+}
+
+#news img{
+    width: 100%;
+    max-width: 450px;
+}
+
+
+#news articlenoticia{
+    margin: 10px;  
+    text-align: right;
+    
+}
+
+
+
+#newstitulo {
+    background: #000000; 
+    text-align: center;
+    
+
+
+    
+}
+
+#newstitulo .contenedor{
+    align-content: center;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background: #000000;
+
+}
+
+
+
+
+
+
+
+
