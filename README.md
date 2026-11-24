@@ -1,7 +1,4 @@
-the-bramson-case
-Lovecraftian horror adventure for PC and Mobile | Aventura de terror lovecraftiana para PC y móviles. English &amp; Spanish audio | Audio en inglés y español.
-
-# THE BRAMSON CASE
+# THE BRAMSON CASE #
 
 ### ENGLISH
 
@@ -20,7 +17,7 @@ Explore a mysterious world, uncover hidden secrets and face an unsettling atmosp
 - Magic Window mode.
 - Audio available in English and Spanish.
 
-Free demo coming soon. Full game planned for January 2027.
+Free prologe coming soon. Full game planned for January 2027.
 
 ---
 
@@ -41,4 +38,4 @@ Explora un mundo misterioso, descubre secretos ocultos y enfréntate a una atmó
 - Modo Magic Window.
 - Audio disponible en inglés y español.
 
-Demo gratuita próximamente. Juego completo previsto para enero de 2027.
+prologo gratuito próximamente. Juego completo previsto para enero de 2027.
