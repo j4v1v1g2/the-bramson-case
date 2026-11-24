@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/400fdd99-ba4c-4e86-a962-13936c9d28cc" /># the-bramson-case
+the-bramson-case
 Lovecraftian horror adventure for PC and Mobile | Aventura de terror lovecraftiana para PC y móviles. English &amp; Spanish audio | Audio en inglés y español.
 
 # THE BRAMSON CASE
